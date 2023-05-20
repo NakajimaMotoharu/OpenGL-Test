@@ -5,5 +5,5 @@
 コンパイル・実行は自己責任でお願いします。
 確かWindowsのMinGWコンパイルとかだとstdlibにrandom定義されてなかった気がするのでそこだけ気を付けてくださいね。
 
-#Update Log
+# Update Log
 20230517 アップロード
